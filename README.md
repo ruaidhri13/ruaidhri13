@@ -6,11 +6,11 @@
 ## 🚀 About Me
 
 - 🎓 I'm a **Computer Science student** at Queen's University Belfast
-- 💻 I’m currently learning **C++ and Java**, with a growing interest in **Python**
+- 💻 I’m currently learning **C++ and Java**, with a growing interest in **Swift**
 - 🚗 Passionate about **cars, driving**, and the **automotive tech industry**
 - 🛠️ I love creating projects that combine **code and car culture**
 - 🔭 Working towards becoming a **software engineer in the automotive industry**
-- 🎯 Long-term goal: **Engineer software for performance tuning, diagnostics, or even autonomous systems**
+- 🎯 Long-term goal: **Engineer software for web/mobile applications, performance tuning, or even infotainment systems**
 
 ---
 
@@ -18,6 +18,7 @@
 
 - C++ fundamentals and object-oriented programming
 - Java development (CLI, GUIs, and basic backend)
+- Swift and SwiftUI framework
 - GitHub, Git workflows, and building a strong portfolio
 - Automotive software concepts (e.g. ECU tuning, embedded systems basics)
 
@@ -29,7 +30,7 @@
 - Java • C++ • C# (basic) • Python (learning) • HTML/CSS
 
 **Tools & Platforms**
-- IntelliJ IDEA, CLion, VS Code  
+- IntelliJ IDEA, CLion, VS Code, XCode  
 - Git & GitHub  
 - Terminal / macOS / UNIX  
 - Figma (for wireframes/mockups)
@@ -47,24 +48,21 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuaidhriUsername&show_icons=true&theme=radical" alt="Ruaidhri's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuaidhriUsername&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruaidhri13&show_icons=true&theme=radical" alt="Ruaidhri's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruaidhri13&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-- 🖇️ [LinkedIn](https://www.linkedin.com/in/your-link) *(Add your profile link here)*
-- 📧 Email: ruaidhri@email.com *(Replace with your real one or keep private)*
-- 🧪 Portfolio Website: Coming Soon...
+- 🖇️ [LinkedIn](https://www.linkedin.com/in/ruaidhri-o-neill-71a976342/)
+- 🧪 Portfolio Website: https://www.ruaidhrioneill.com/
 
 ---
 
 ## ⚙️ Fun Fact
 
-> I’m passionate about cars, but even more passionate about building things that make cars smarter, safer, and more efficient.
+> I’m passionate about cars, but even more passionate about building things that could make cars smarter, safer, and more efficient.
 
 ---
-
-<p align="center">Let's build the future of cars, one line of code at a time 🚘💻</p>
