@@ -43,7 +43,7 @@
 ## 📚 Currently Learning
 
 - 🧠 **C++** – OOP, memory management, and templates  
-- 📦 **Java** – CLI tools, GUI apps, basic backend structure  
+- 📦 **Java** – CLI tools, OOP, GUI apps, basic backend structure  
 - 🖥 **SwiftUI** – Apple ecosystem development  
 - ⚙️ **Automotive Tech** – ECU tuning & embedded systems  
 - 🔧 **Git & GitHub** – Clean commits and smart branching  
