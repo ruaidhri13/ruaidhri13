@@ -71,9 +71,9 @@
 
 ## 🤝 Let’s Connect
 
-<p align="center">
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ruaidhri-o-neill-71a976342" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/ruaidhri-o-neill-71a976342?trk=profile-badge">Ruaidhri O'Neill</a></div>
-              
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ruaidhri-o-neill-71a976342" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/ruaidhri-o-neill-71a976342?trk=profile-badge">Ruaidhri O'Neill</a></div>
+
+<p align="center">            
   <a href="https://www.linkedin.com/in/ruaidhri-o-neill-71a976342/" target="_blank">
     <img src="https://img.shields.io/badge/Connect on LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
   </a>
