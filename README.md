@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/ruaidhri-o-neill-71a976342/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.ruaidhrioneill.com" target="_blank">
+  <a href="https://ruaidhri13.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" />
   </a>
 </p>
