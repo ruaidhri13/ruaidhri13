@@ -59,7 +59,7 @@
 |------------|--------------|--------|
 | 🚘 **FleetTrackr** | Full-stack vehicle tracking app with telemetry (speed, location, fuel). Built using Spring Boot, REST APIs, and H2/PostgreSQL. | Java · Spring Boot · REST · H2 · PostgreSQL |
 | 💡 **DriveMate Clone** | C++ command-line tool simulating live vehicle data tracking. | C++ · OOP · CLI |
-| 🧮 **Fuel Cost Calculator** | Java desktop app that estimates journey costs using MPG and fuel prices. | Java · Swing |
+| 🧮 **Fuel Cost Calculator** | Java desktop app that estimates journey costs using MPG and fuel prices. | Java · JavaFX |
 | 🧱 **TaskBridge** | Minimalist productivity app to explore UI/UX design and project structure. | HTML · CSS · JS |
 
 ---
