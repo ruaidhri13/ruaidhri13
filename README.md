@@ -14,8 +14,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 1st-year **Computer Science** student @ **Queen’s University Belfast**
-- 🔧 I build **real-world projects that merge software with car culture**
+- 🎓 2nd-year **Computer Science** student @ **Queen’s University Belfast**
+- 🔧 I like to build **real-world projects that merge software with car culture**
 - 💻 Learning **full-stack development** using Java, Spring Boot, and PostgreSQL  
 - 🚘 Currently building **FleetTrackr** — a vehicle tracking system with live telemetry  
 - ☁️ Exploring **cloud deployment**, **MongoDB**, and **RESTful API design**
