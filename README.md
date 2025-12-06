@@ -15,11 +15,11 @@
 ## 🧑‍💻 About Me
 
 - 🎓 2nd-year **Computer Science** student @ **Queen’s University Belfast**
-- 🔧 I like to build **real-world projects that merge software with car culture**
-- 💻 Learning **full-stack development** using Java, Spring Boot, and PostgreSQL  
-- 🚘 Currently building **FleetTrackr** — a vehicle tracking system with live telemetry  
-- ☁️ Exploring **cloud deployment**, **MongoDB**, and **RESTful API design**
-- 🏁 Goal: Work in **automotive software engineering**, bridging cars and code
+- 🔧 I focus on **Backend Engineering** and **System Architecture**-building logic-heavy apps over simple CRUD.
+- 💻 Specialising in **Java Ecosystems** (Spring Boot, Hibernate) and **Relational Data Design** (PostgreSQL).
+- 🏎️ Currently architecting **ApexManager** - a high-performance booking engine for race tracks.
+- ☁️ Experienced with **Full Stack Integration**, **Dockerisation**, and **REST API Design**.
+- 🏁 Goal: Work in **software engineering**.
 
 ---
 
@@ -29,53 +29,54 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" width="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/> &nbsp;
   <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" title="CLion" width="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" width="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" width="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/> &nbsp;
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 📚 Focus Areas
 
-- ⚙️ **Spring Boot + REST APIs** — Backend design with persistence  
-- 🗄️ **PostgreSQL & H2** — From in-memory to production-ready databases  
-- ☁️ **MongoDB University: M001 MongoDB Basics** – Working toward certification  
-- 💡 **C++ Projects** — Object-oriented design & real-time simulations  
-- 🖥 **SwiftUI** — Prototyping iOS interfaces  
-- 🧩 **GitHub Collaboration** — Version control & clean commits
+- ⚙️ **Complex Business Logic** - Handling concurrency and state management in Java.
+- 🗄️ **Database Constraints** - Designing schemas that enforce data integrity (PostgreSQL).
+- 🎨 **Modern Frontends** - Integrating React + Vite with Java Backends.
+- 🐳 **DevOps** - Containerising applications for cloud deployment.
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Highlight: ApexManager
+
+> **A Full-Stack SaaS for Race Track Management**
+> 
+> I built this system to solve the "Double Booking" problem in facility management. It uses a rigorous Java Service layer to lock resources and calculate capacity in real-time.
+
+| **Key Features** | **Technical Implementation** |
+| :--- | :--- |
+| **Concurrency Safety** | Backend logic prevents overlapping bookings before database commitment. |
+| **Exclusive Locking** | Algorithms ensure "Private Events" lock out "Public Walk-ins" for specific time windows. |
+| **3D Showroom UI** | Custom CSS 3D Carousel and "Starting Grid" visualisers in React. |
+| **Capacity Math** | Dynamic calculation of remaining kart fleet availability across time slots. |
+
+**Stack:** Java 21 · Spring Boot 3.4 · PostgreSQL · React.js · Docker
+
+📂 **View Code:** [ApexManager Repository](https://github.com/ruaidhri13/apex-manager)
+
+---
+
+## 🚀 Other Projects
 
 | 🧩 Project | Description | Stack |
 |------------|--------------|--------|
-| 🚘 **FleetTrackr** | Full-stack vehicle tracking app with telemetry (speed, location, fuel). Built using Spring Boot, REST APIs, and H2/PostgreSQL. | Java · Spring Boot · REST · H2 · PostgreSQL |
+| 🚘 **FleetTrackr** | Vehicle tracking app with telemetry logging. | Java · Spring Boot · H2 |
 | 💡 **DriveMate Clone** | C++ command-line tool simulating live vehicle data tracking. | C++ · OOP · CLI |
-| 🧮 **Fuel Cost Calculator** | Java desktop app that estimates journey costs using MPG and fuel prices. | Java · JavaFX |
-| 🧱 **TaskBridge** | Minimalist productivity app to explore UI/UX design and project structure. | HTML · CSS · JS |
-
----
-
-## 🧠 Highlight: FleetTrackr
-
-> A backend system that tracks vehicles and logs telemetry data — speed, GPS coordinates, and fuel level — through RESTful endpoints.  
-> Designed to scale with PostgreSQL for persistent data and front-end dashboard integration.
-
-**Key Features**
-- Add, view, and manage vehicles  
-- Log live telemetry data linked to each vehicle  
-- Built using **Spring Boot**, **H2/PostgreSQL**, and **Java Persistence API (JPA)**  
-- Modular MVC structure for future front-end expansion  
-
-📂 **Repo:** [FleetTrackr](https://github.com/ruaidhri13/FleetTrackr)
+| 🧮 **Fuel Cost Calculator** | Java desktop app for estimating journey costs. | Java · JavaFX |
 
 ---
 
@@ -91,12 +92,10 @@
 ## 🤝 Let’s Connect
 
 <p align="center">            
-  <a href="https://www.linkedin.com/in/ruaidhrioneill/" target="_blank">
+  <a href="https://www.linkedin.com/in/ruaidhri-o-neill-71a976342/" target="_blank">
     <img src="https://img.shields.io/badge/Connect on LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
   </a>
-  <a href="https://www.ruaidhrioneill.com" target="_blank">
+  <a href="https://ruaidhri13.github.io" target="_blank">
     <img src="https://img.shields.io/badge/My Portfolio-black?logo=firefox&style=for-the-badge"/>
   </a>
 </p>
-
----
