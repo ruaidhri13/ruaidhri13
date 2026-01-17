@@ -18,7 +18,7 @@
 - 🔧 I focus on **Backend Engineering** and **System Architecture**-building logic-heavy apps over simple CRUD.
 - 💻 Specialising in **Java Ecosystems** (Spring Boot, Hibernate) and **Relational Data Design** (PostgreSQL).
 - 🏎️ Currently architecting **ApexManager** - a high-performance booking engine for race tracks.
-- ☁️ Experienced with **Full Stack Integration**, **Dockerisation**, and **REST API Design**.
+- ☁️ Experienced with **Full Stack Integration** and **REST API Design**.
 - 🏁 Goal: Work in **software engineering**.
 
 ---
